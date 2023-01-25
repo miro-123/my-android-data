@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "Kdo je Skládkobijec ?",
+        "Kdo je Soros ?"
+    ],
+
+    "answers": [
+        ["Caputova", "Truban", "Sulik", "Poliacik"],
+        ["majitel galaxie", "majitel zeme", "majitel európskej únie", "majitel slniečkárov"]
+    ]
+}
