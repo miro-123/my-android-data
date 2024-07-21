@@ -1,0 +1,24 @@
+
+[
+    {
+      "name": "Fico",
+      "bold": true,
+      "Tcolor": [255, 255, 0],
+      "Bcolor": [255, 0, 255]
+    },
+
+
+    {
+      "name": "Kotleba",
+    "bold": false,
+    "Tcolor": [0, 255, 100],
+    "Bcolor": [255, 255, 255]	
+    },
+
+    {
+      "name": "Sulik",
+    "bold": true,
+    "Tcolor": [255, 255, 0],
+    "Bcolor": [255, 0, 255]	
+    }
+  ]
