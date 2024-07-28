@@ -3,7 +3,7 @@
     {
       "name": "Fico",
       "bold": true,
-      "Tcolor": [255, 255, 0],
+      "Tcolor": [255, 0, 0],
         "format": "jpg"
     },
 
@@ -11,7 +11,7 @@
     {
       "name": "Kotleba",
     "bold": false,
-    "Tcolor": [0, 255, 100],
+    "Tcolor": [0, 255, 50],
         "format": "jpg"
     },
 
